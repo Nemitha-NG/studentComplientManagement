@@ -1,2 +1,2 @@
 # studentComplientManagement
-In order to manage complients from students,i.e theor complients on facilities.
+In order to manage complients from students,i.e their complients on facilities.
